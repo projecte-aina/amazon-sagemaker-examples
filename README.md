@@ -29,5 +29,5 @@ Although most examples utilize key Amazon SageMaker functionality like distribut
 ## :notebook: Examples
 
 ### Inference
-- [# Aguila 7b Hugging Face Large Model Inference - TGI](inference/huggingface-tgi/aguila-7b/sagemaker-huggingface-tgi-aguila7b-example.ipynb) how shows how to deploy common large language models such as projecte-aina/aguila-7b, using Hugging Face Text Generation Inference (TGI) Deep Learning Container on Amazon SageMaker
+- [Aguila 7b Hugging Face Large Model Inference - TGI](inference/huggingface-tgi/aguila-7b/sagemaker-huggingface-tgi-aguila7b-example.ipynb) how shows how to deploy common large language models such as projecte-aina/aguila-7b, using Hugging Face Text Generation Inference (TGI) Deep Learning Container on Amazon SageMaker
 
