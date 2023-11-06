@@ -30,5 +30,6 @@ Although most examples utilize key Amazon SageMaker functionality like distribut
 
 ### Inference
 - [Aguila 7b Hugging Face Large Model Inference - TGI](inference/huggingface-tgi/aguila-7b/sagemaker-huggingface-tgi-aguila7b-example.ipynb) shows how to deploy common large language models such as projecte-aina/aguila-7b, using Hugging Face Text Generation Inference (TGI) Deep Learning Container on Amazon SageMaker
-- [Aguila 7b fine-tunning with instruction dataset](https://github.com/projecte-aina/amazon-sagemaker-examples/tree/main/finetunning/aguila-7b/instrucat) shows how to fine-tune a the falcon 7B aguila model projecte-aina/aguila-7b, using a instructional dataset (in this case an example from the InstructCat collection) with a g5 instance from Amazon Sagemaker.
+### Fine-tunnig
+- [Aguila 7b fine-tunning with instruction dataset](finetunning/aguila-7b/instrucat/finetunning-instrucat-quantized-aguila.ipynb) shows how to fine-tune the falcon 7B aguila model projecte-aina/aguila-7b, using an instructional dataset (in this case an example from the InstructCat collection) with a g5 instance from Amazon Sagemaker.
 
